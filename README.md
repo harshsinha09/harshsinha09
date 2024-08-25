@@ -1,3 +1,4 @@
+<img src="https://github.com/harshsinha09/harshsinha09/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" alt="logo">
 <h1 align="center">Hi 👋, I'm Harsh Sinha</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
